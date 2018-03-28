@@ -1,0 +1,14 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "Quickly create new libraries",
+  "author": "Jonathan Neal <jonathantneal@hotmail.com>",
+  "license": "CC0-1.0",
+  "repository": "jonathantneal/project-boilerplate",
+  "homepage": "https://github.com/jonathantneal/project-boilerplate#readme",
+  "bugs": "https://github.com/jonathantneal/project-boilerplate/issues",
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "private": true
+}
